@@ -1,5 +1,4 @@
 import discord
-import json
 import config
 import re
 from virus_total_apis import PublicApi as VirusTotalPublicApi
